@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Francisco Dias</h1>
+<h1 align="center">Hi, I'm Francisco Aragão Dias</h1>
 <h3 align="center">Final-year Computer Engineering student | Full-Stack & Backend Enthusiast</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🎓 Final-year Computer Engineering student at **ISEL**
 - 🎯 Focused on **Backend & Full-Stack Development**
@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🎤 Daily Voice Recorder
 Full-stack voice journaling app with transcription and translation.
@@ -49,7 +49,7 @@ React application for tracking personal finances.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### 💻 Languages
 <p>
@@ -73,7 +73,7 @@ React application for tracking personal finances.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xicoooooo&show_icons=true" height="165"/>
@@ -82,7 +82,7 @@ React application for tracking personal finances.
 
 ---
 
-## 🔥 Activity
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=xicoooooo" />
