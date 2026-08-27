@@ -69,6 +69,28 @@ React application for creating budgets, tracking expenses, and monitoring spendi
 
 ---
 
+## Client & Personal Projects
+
+### 🌿 Aurinne
+Modern wellness Progressive Web App (PWA) designed to support healthier habits, well-being, and a balanced lifestyle.
+
+- 🔗 Live Demo: https://aurinne.vercel.app/profile
+- 🛠️ React · TypeScript · Vite · Tailwind CSS · Supabase · Zustand · Framer Motion
+
+*Private and proprietary project developed for a real-world wellness application.*
+
+---
+
+### 🔧 H&S Oficina
+Modern business website developed for **H & S, Hélder e Susana Lda**, an automotive workshop based in Viseu.
+
+- 🔗 Live Website: https://hsoficina.vercel.app/
+- 🛠️ React · TypeScript · Vite · Tailwind CSS · React Router · Responsive UI
+
+*Private project developed for a real-world business.*
+
+---
+
 ## Academic Projects
 
 ### 🎾 Padel Courts Management System
@@ -121,7 +143,7 @@ Android application consuming a REST API for the Poker Dice system, with applica
 
 ### ⚙️ Backend, Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,ktor,postgres,mongodb,firebase,docker" />
+  <img src="https://skillicons.dev/icons?i=spring,ktor,postgres,mongodb,firebase,supabase,docker" />
 </p>
 
 ### 🖥️ Desktop & Mobile
