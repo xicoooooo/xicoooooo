@@ -148,8 +148,8 @@ Completed in August 2026, covering fundamental AWS concepts including compute, s
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xicoooooo&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xicoooooo&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xicoooooo&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xicoooooo&layout=compact" height="165"/>
 </p>
 
 ---
