@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Francisco Aragão Dias</h1>
+<h1 align="center">Hi, I'm Francisco Aragão Dias!</h1>
 <h3 align="center">BSc in Computer Science and Engineering @ ISEL | Software Developer | Incoming MSc Student</h3>
 
 <p align="center">
