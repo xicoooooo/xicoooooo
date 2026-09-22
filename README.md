@@ -161,7 +161,7 @@ Android application consuming a REST API for the Poker Dice system, with applica
 ## Certifications
 
 ### ☁️ AWS Cloud Practitioner Essentials
-**AWS Skill Builder — Certificate of Completion**
+**AWS Skill Builder - Certificate of Completion**
 
 Completed in August 2026, covering fundamental AWS concepts including compute, storage, networking, databases, security, pricing, migration, monitoring, and AI/ML services.
 
