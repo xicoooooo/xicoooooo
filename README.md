@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/francisco-dias-78bb13205"><img src="https://img.shields.io/badge/LinkedIn-Francisco%20Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://3d-francisco-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3D%20Experience-6366F1?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://img.shields.io/badge/Lisbon-Portugal-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lisbon, Portugal" />
+  <img src="https://img.shields.io/badge/Lisbon-Vila-Real-Portugal-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lisbon, Vila Real, Portugal" />
   <img src="https://img.shields.io/badge/English-C2%20Proficient-0F172A?style=for-the-badge" alt="English C2 Proficient" />
 </p>
 
