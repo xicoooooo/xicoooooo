@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6366f1&height=230&section=header&text=Francisco%20Arag%C3%A3o%20Dias&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Lisbon%2C%20Portugal&descAlignY=57&descSize=18&animation=fadeIn" alt="Francisco Aragão Dias — Software Developer, Lisbon, Portugal" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6366f1&height=230&section=header&text=Francisco%20Arag%C3%A3o%20Dias&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Lisbon%2C%20Portugal&descAlignY=57&descSize=18&animation=fadeIn" alt="Francisco Aragão Dias — Software Developer, Lisbon / Vila Real, Portugal" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=BSc+in+Computer+Science+and+Engineering+%40+ISEL;Incoming+MSc+in+Computer+Engineering+and+Web+Technologies;Building+web%2C+mobile%2C+desktop+and+backend+systems" alt="BSc in Computer Science and Engineering @ ISEL · Incoming MSc Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=BSc+in+Computer+Science+and+Engineering+%40+ISEL;MSc+in+Computer+Engineering+and+Web+Technologies+%40+UTAD;Building+web%2C+mobile%2C+desktop+and+backend+systems" alt="BSc in Computer Science and Engineering @ ISEL · MSc Student @ UTAD" />
 </p>
 
 <p align="center">
