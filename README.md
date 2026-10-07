@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6366f1&height=230&section=header&text=Francisco%20Arag%C3%A3o%20Dias&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Lisbon%2C%20Portugal&descAlignY=57&descSize=18&animation=fadeIn" alt="Francisco Aragão Dias — Software Developer, Lisbon / Vila Real, Portugal" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6366f1&height=230&section=header&text=Francisco%20Arag%C3%A3o%20Dias&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Lisbon%2C%20Vila Real%2C%20Portugal&descAlignY=57&descSize=18&animation=fadeIn" alt="Francisco Aragão Dias — Software Developer, Lisbon / Vila Real, Portugal" width="100%" />
 </p>
 
 <p align="center">
